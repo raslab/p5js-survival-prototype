@@ -2,6 +2,8 @@
 
 This project is a grid-based survival game developed as an experiment during *a 3-hour vibe coding session*. It incorporates a selection of resources, along with various improvements and bug fixes implemented during the session.
 
+![Gameplay Demo](screenshots/gameplay.gif)
+
 ## How to Play
 
 The objective of the game is to navigate the grid and reach one of the exit points while avoiding or eliminating opponents.
@@ -74,7 +76,6 @@ Here are some screenshots from the game:
 
 ## Demo and Play
 
-*   **Demo Reel Video:** ![Gameplay Demo](screenshots/gameplay.gif)
 *   **Play on GitHub Pages:** https://raslab.github.io/p5js-survival-prototype/
 
 ## Future Improvements
