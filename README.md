@@ -63,9 +63,18 @@ To run this game locally, you will need a simple web server to handle the loadin
         Then, open your web browser and go to `http://localhost:8000`.
     *   **Other Local Server Options:** Any other method for serving static files locally will also work.
 
+## Screenshots
+
+Here are some screenshots from the game:
+
+*   ![Screenshot 1](screenshots/Screenshot from 2025-05-20 22-32-45.png)
+*   ![Screenshot 2](screenshots/Screenshot from 2025-05-20 22-33-06.png)
+*   ![Screenshot 3](screenshots/Screenshot from 2025-05-20 22-33-18.png)
+*   ![Screenshot 4](screenshots/Screenshot from 2025-05-20 22-33-30.png)
+
 ## Demo and Play
 
-*   **Demo Reel Video:** \[Link to Demo Reel Video Here]
+*   **Demo Reel Video:** [Video Demo](screenshots/Screencast from 20.05.2025 22:30:03.webm)
 *   **Play on GitHub Pages:** https://raslab.github.io/p5js-survival-prototype/
 
 ## Future Improvements
