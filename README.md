@@ -66,7 +66,7 @@ To run this game locally, you will need a simple web server to handle the loadin
 ## Demo and Play
 
 *   **Demo Reel Video:** \[Link to Demo Reel Video Here]
-*   **Play on GitHub Pages:** \[Link to GitHub Pages Here]
+*   **Play on GitHub Pages:** https://raslab.github.io/p5js-survival-prototype/
 
 ## Future Improvements
 
