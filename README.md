@@ -74,7 +74,7 @@ Here are some screenshots from the game:
 
 ## Demo and Play
 
-*   **Demo Reel Video:** [Video Demo](screenshots/Screencast%20from%2020.05.2025%2022:30:03.webm)
+*   **Demo Reel Video:** ![Gameplay Demo](screenshots/gameplay.gif)
 *   **Play on GitHub Pages:** https://raslab.github.io/p5js-survival-prototype/
 
 ## Future Improvements
