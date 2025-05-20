@@ -67,14 +67,14 @@ To run this game locally, you will need a simple web server to handle the loadin
 
 Here are some screenshots from the game:
 
-*   ![Screenshot 1](screenshots/Screenshot from 2025-05-20 22-32-45.png)
-*   ![Screenshot 2](screenshots/Screenshot from 2025-05-20 22-33-06.png)
-*   ![Screenshot 3](screenshots/Screenshot from 2025-05-20 22-33-18.png)
-*   ![Screenshot 4](screenshots/Screenshot from 2025-05-20 22-33-30.png)
+*   ![Screenshot 1](screenshots/Screenshot%20from%202025-05-20%2022-32-45.png)
+*   ![Screenshot 2](screenshots/Screenshot%20from%202025-05-20%2022-33-06.png)
+*   ![Screenshot 3](screenshots/Screenshot%20from%202025-05-20%2022-33-18.png)
+*   ![Screenshot 4](screenshots/Screenshot%20from%202025-05-20%2022-33-30.png)
 
 ## Demo and Play
 
-*   **Demo Reel Video:** [Video Demo](screenshots/Screencast from 20.05.2025 22:30:03.webm)
+*   **Demo Reel Video:** [Video Demo](screenshots/Screencast%20from%2020.05.2025%2022:30:03.webm)
 *   **Play on GitHub Pages:** https://raslab.github.io/p5js-survival-prototype/
 
 ## Future Improvements
